@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Angular, C# and .Net**
 
-- 📫 How to reach me **vnkabhinav734@gmail.com**
+- 📫 How to reach me **vrupana@dal.ca**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NwFdjrO5wSqvdgANsjU3tu7ZGMKIc320/view?usp=drive_link](https://drive.google.com/file/d/1NwFdjrO5wSqvdgANsjU3tu7ZGMKIc320/view?usp=drive_link)
 
