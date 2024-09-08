@@ -1,12 +1,11 @@
 ![logo](https://github.com/vnkabhinav734/vnkabhinav734/blob/main/Github_Banner.png)
 <h1 align="center">Hi 👋, I'm Vinayak Abhinav Rupanagunta</h1>
-<h3 align="center">A Software Developer with 2 years of industry experience. Recently graduated from Dalhousie University in Canada with a master's degree</h3>
+<h3 align="center">A Software Developer and Tester with more than 2 years of industry experience. Currently I am working as a Test Engineer in wipro leveraging BDD Cucumber and Selenium to develop automation frameworks for functional and regression testing across data-driven applications.</h3>
 
 <img align="right" alt="coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 
-- 🌱 I’m currently learning **React, Angular, C# and .Net**
 
-- 📫 How to reach me **vrupana@dal.ca**
+- 📫 How to reach me **vinayakabhinav.r@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NwFdjrO5wSqvdgANsjU3tu7ZGMKIc320/view?usp=drive_link](https://drive.google.com/file/d/1NwFdjrO5wSqvdgANsjU3tu7ZGMKIc320/view?usp=drive_link)
 
